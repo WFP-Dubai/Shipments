@@ -10,6 +10,7 @@ The Shipments repository consists of a job that is designed to extract DHL shipp
 2) Java is the programming language.
 3) The database used is Postresql.
 4) JDBC connection to the database.
+5) Maven is used to resolve dependencies and build the project.
 
 ****Work Completed to Date
 
